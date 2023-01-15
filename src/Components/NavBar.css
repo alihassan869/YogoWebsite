@@ -1,0 +1,9 @@
+.NavBar {
+  background-color: #6900d1;
+}
+.NavBar .active {
+  border-bottom: 2px solid white;
+}
+.text-decoration-none {
+  margin: 0px 10px;
+}

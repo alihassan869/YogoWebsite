@@ -1,0 +1,13 @@
+.Services {
+  width: 100%;
+  min-height: 60vh;
+}
+.Services .shadow {
+  color: #212529;
+  cursor: pointer;
+  padding-left: 20px;
+}
+.Services .shadow:hover {
+  background-color: #6900d1;
+  color: white;
+}

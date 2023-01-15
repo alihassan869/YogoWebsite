@@ -1,0 +1,24 @@
+.Review {
+  width: 100%;
+  min-height: 60vh;
+}
+.Review .shadow {
+  color: #212529;
+  cursor: pointer;
+  padding-left: 20px;
+  transition: 0.5s;
+}
+.Review .shadow:hover {
+  transform: translateY(-8px);
+}
+.Review .shadow a {
+  border-radius: 100%;
+  color: green;
+  margin: 0px 5px;
+  text-decoration: none;
+  font-size: 30px;
+}
+.Review .shadow:hover {
+  background-color: #6900d1;
+  color: white;
+}
